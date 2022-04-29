@@ -8,8 +8,9 @@ TreasureHunter（お宝探しゲーム）
 ![AAA](https://user-images.githubusercontent.com/88835817/165759998-3a34b155-b212-4d8c-97f1-85780e7c239a.gif)
  
 # Requirement & Installation
+- IDE(統合開発環境)は、Eclipseで行いました。
 - Java Fxが実行できるバージョンである必要があります。
-- JavaSE-1.8（JDK1.8が必要になると思います）
+  - JavaSE-1.8（JDK1.8が必要になると思います）
 
 #### インストール方法
 1. Eclipseを立ち上げる
@@ -21,7 +22,10 @@ TreasureHunter（お宝探しゲーム）
 4. プロジェクトの「bin/javafx」フォルダにリポジトリの「bin/javafx」の**画像のみ**コピー
 
 # Usage
-* IDE(統合開発環境)は、Eclipseで行いました。
+- **FxApp.java**をjavaアプリケーションで実行する（デモを参考）
+   - 上記のインストールが完了しているとする。
+- 操作手順は以下を参考にしてください
+* [操作マニュアル](https://github.com/sg5314/TreasureHunter/blob/main/Manual.md)
 
 # Author
 * [sg5314](https://github.com/sg5314/)
